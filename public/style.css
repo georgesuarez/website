@@ -1,0 +1,20 @@
+.background-img-box {
+   background-image: url("/images/dark-background-image.jpg");
+   max-width: 100%;
+   height: auto;
+   width: auto\9;
+}
+
+.greeting-container {
+   font-size: 5vw;
+   font-family: Arial, Helvetica, sans-serif;
+   color: white;
+   height: 10em;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.fixed-bottom {
+   color: white;
+}
